@@ -1,0 +1,17 @@
+BSPTwoMap v1.4b (Jan  4 2004) by Skyler 'Zipster' York
+With code written by Sean 'Zoner' Cavanaugh and Valve Software
+Decompiling BSP file zs_contact...
+Processing model 0 (worldspawn)...done
+Processing model 1 (trigger_push)...done
+Processing model 2 (trigger_push)...done
+Processing model 3 (func_buyzone)...done
+Processing model 4 (func_conveyor)...done
+Processing model 5 (func_conveyor)...done
+Processing model 6 (func_conveyor)...done
+Processing model 7 (func_conveyor)...done
+Extracting included textures...none found...done
+
+-----   END   BSPTwoMap -----
+
+
+

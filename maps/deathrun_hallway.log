@@ -1,0 +1,47 @@
+BSPTwoMap v1.4b (Jan  4 2004) by Skyler 'Zipster' York
+With code written by Sean 'Zoner' Cavanaugh and Valve Software
+Decompiling BSP file deathrun_hallway...
+Processing model 0 (worldspawn)...done
+Processing model 1 (func_water)...done
+Processing model 2 (func_door)...done
+Processing model 3 (func_door)...done
+Processing model 4 (func_door)...done
+Processing model 5 (func_wall)...done
+Processing model 6 (func_button)...done
+Processing model 7 (func_button)...done
+Processing model 8 (trigger_hurt)...done
+Processing model 9 (trigger_teleport)...done
+Processing model 10 (trigger_teleport)...done
+Processing model 11 (func_wall)...done
+Processing model 12 (func_door)...done
+Processing model 13 (func_door)...done
+Processing model 14 (func_water)...done
+Processing model 15 (trigger_hurt)...done
+Processing model 16 (func_button)...done
+Processing model 17 (func_door)...done
+Processing model 18 (func_door)...done
+Processing model 19 (func_wall)...done
+Processing model 20 (func_door)...done
+Processing model 21 (func_wall)...done
+Processing model 22 (func_wall)...done
+Processing model 23 (func_wall)...done
+Processing model 24 (trigger_hurt)...done
+Processing model 25 (func_water)...done
+Processing model 26 (func_rotating)...done
+Processing model 27 (func_rotating)...done
+Processing model 28 (func_rotating)...done
+Processing model 29 (func_door_rotating)...done
+Processing model 30 (func_door_rotating)...done
+Processing model 31 (func_button)...done
+Processing model 32 (func_button)...done
+Processing model 33 (func_door_rotating)...done
+Processing model 34 (trigger_multiple)...done
+Processing model 35 (trigger_teleport)...done
+Processing model 36 (func_wall)...done
+Processing model 37 (func_illusionary)...done
+Extracting included textures...done
+
+-----   END   BSPTwoMap -----
+
+
+

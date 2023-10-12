@@ -1,0 +1,13 @@
+{
+"classname" "worldspawn"
+"classname" "worldspawn"
+"skyname" "nuclear_winter"
+"MaxRange" "4096"
+"mapversion" "220"
+"mapversion" "220"
+"wad" "\me\tools\valve hammer editor 3.5\cstrike.wad;\me\tools\valve hammer editor 3.5\halflife.wad;\me\tools\valve hammer editor 3.5\cs_dust.wad"
+}
+{
+"classname" ""
+"origin" "0 0 0"
+}

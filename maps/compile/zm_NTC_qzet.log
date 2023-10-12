@@ -1,0 +1,104 @@
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: T:\Me\Tools\VALVEH~1.5\hlcsg.exe "T:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zm_NTC_qzet"
+Entering T:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zm_NTC_qzet.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+193 brushes (totalling 1158 sides) discarded from clipping hulls
+CreateBrush:
+ (0.08 seconds)
+SetModelCenters:
+ (0.00 seconds)
+CSGBrush:
+ (0.25 seconds)
+
+Using Wadfile: \me\tools\valve hammer editor 3.5\cs_dust.wad
+ - Contains 4 used textures, 10.26 percent of map (28 textures in wad)
+Using Wadfile: \me\tools\valve hammer editor 3.5\cstrike.wad
+ - Contains 1 used texture, 2.56 percent of map (123 textures in wad)
+Using Wadfile: \me\tools\valve hammer editor 3.5\halflife.wad
+ - Contains 33 used textures, 84.62 percent of map (3116 textures in wad)
+
+added 7 additional animating textures.
+Warning: ::FindTexture() texture NULL not found!
+Are you sure you included zhlt.wad in your wadpath list?
+Warning: ::LoadLump() texture NULL not found!
+Texture usage is at 0.66 mb (of 4.00 mb MAX)
+0.57 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: T:\Me\Tools\VALVEH~1.5\hlbsp.exe "T:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zm_NTC_qzet"
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...988 (0.04 seconds)
+BSP generation successful, writing portal file 'T:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zm_NTC_qzet.prt'
+SolidBSP [hull 1] 500...588 (0.02 seconds)
+SolidBSP [hull 2] 500...522 (0.02 seconds)
+SolidBSP [hull 3] 500...858 (0.04 seconds)
+0.46 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+

@@ -1,0 +1,25 @@
+hlcsg: Error: Entity 0, Brush 111, Side 4: plane with no normal
+
+hlcsg: Error: plane with no normal
+Description: The map has a problem which must be fixed
+Howto Fix: Check the file http://www.zhlt.info/common-mapping-problems.html for a detailed explanation of this problem
+
+
+hlcsg: Error: Entity 0, Brush 111: outside world(+/-4096): (-5488,1504,1024)-(2107,1671,10006)
+
+hlcsg: Error: Entity 0, Brush 111: outside world(+/-4096): (-5488,1504,1024)-(2107,1671,10006)
+
+hlcsg: Error: Entity 0, Brush 111: outside world(+/-4096): (-5504,1488,988)-(2123,1687,10042)
+
+hlcsg: Error: Entity 0, Brush 111: outside world(+/-4096): (-5504,1488,988)-(2123,1687,10042)
+
+hlcsg: Error: Entity 0, Brush 111: outside world(+/-4096): (-5520,1472,992)-(2139,1703,10038)
+
+hlcsg: Error: Entity 0, Brush 111: outside world(+/-4096): (-5520,1472,992)-(2139,1703,10038)
+
+hlcsg: Error: Entity 0, Brush 111: outside world(+/-4096): (-5504,1488,1006)-(2123,1687,10024)
+
+hlcsg: Error: Entity 0, Brush 111: outside world(+/-4096): (-5504,1488,1006)-(2123,1687,10024)
+
+hlcsg: Error: Entity 0, Brush 182, Side 2: has a coplanar plane at (2477, 1433, 964), texture ZS_WIN_03
+

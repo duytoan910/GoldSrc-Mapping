@@ -1,0 +1,157 @@
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: E:\Me\Tools\VALVEH~1.5\hlcsg.exe "E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zm_defense"
+Entering E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zm_defense.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+0 brushes (totalling 0 sides) discarded from clipping hulls
+CreateBrush:
+ (0.01 seconds)
+SetModelCenters:
+ (0.00 seconds)
+CSGBrush:
+ (0.03 seconds)
+
+Using Wadfile: \me\tools\valve hammer editor 3.5\cstrike.wad
+ - Contains 3 used textures, 12.50 percent of map (123 textures in wad)
+Using Wadfile: \me\tools\valve hammer editor 3.5\halflife.wad
+ - Contains 16 used textures, 66.67 percent of map (3116 textures in wad)
+Using Wadfile: \me\tools\valve hammer editor 3.5\cs_dust.wad
+ - Contains 2 used textures, 8.33 percent of map (28 textures in wad)
+Using Wadfile: \me\tools\valve hammer editor 3.5\headshot.wad
+ - Warning: Larger than expected texture (306812 bytes): 'NTC'
+ - Contains 0 used textures, 0.00 percent of map (12 textures in wad)
+
+added 2 additional animating textures.
+Warning: ::FindTexture() texture C_BLDG3_2 not found!
+Warning: ::FindTexture() texture C_TNNL_CCRETE not found!
+Warning: ::FindTexture() texture C_BLDG2_BRCK not found!
+Warning: ::LoadLump() texture C_BLDG2_BRCK not found!
+Warning: ::LoadLump() texture C_BLDG3_2 not found!
+Warning: ::LoadLump() texture C_TNNL_CCRETE not found!
+Texture usage is at 0.31 mb (of 4.00 mb MAX)
+0.14 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: E:\Me\Tools\VALVEH~1.5\hlbsp.exe "E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zm_defense"
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 174 (0.01 seconds)
+Warning: === LEAK in hull 0 ===
+Entity info_player_start @ ( 744,-680, 188)
+Error: 
+  A LEAK is a hole in the map, where the inside of it is exposed to the
+(unwanted) outside region.  The entity listed in the error is just a helpful
+indication of where the beginning of the leak pointfile starts, so the
+beginning of the line can be quickly found and traced to until reaching the
+outside. Unless this entity is accidentally on the outside of the map, it
+probably should not be deleted.  Some complex rotating objects entities need
+their origins outside the map.  To deal with these, just enclose the origin
+brush with a solid world brush
+
+Leak pointfile generated
+
+SolidBSP [hull 1] 159 (0.00 seconds)
+Warning: === LEAK in hull 1 ===
+Entity info_player_start @ ( 744,-680, 188)
+SolidBSP [hull 2] 157 (0.00 seconds)
+Warning: === LEAK in hull 2 ===
+Entity info_player_start @ ( 744,-680, 188)
+SolidBSP [hull 3] 166 (0.00 seconds)
+Warning: === LEAK in hull 3 ===
+Entity info_player_start @ ( 744,-680, 188)
+0.07 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: E:\Me\Tools\VALVEH~1.5\hlvis.exe -fast "E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zm_defense"
+>> There was a problem compiling the map.
+>> Check the file E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zm_defense.log for the cause.
+
+-----   END   hlvis -----
+
+
+
+hlrad v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlrad -----
+Command line: E:\Me\Tools\VALVEH~1.5\hlrad.exe "E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zm_defense"
+>> There was a problem compiling the map.
+>> Check the file E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zm_defense.log for the cause.
+
+-----   END   hlrad -----
+
+
+

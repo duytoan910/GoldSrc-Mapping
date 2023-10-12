@@ -1,0 +1,138 @@
+BSPTwoMap v1.4b (Jan  4 2004) by Skyler 'Zipster' York
+With code written by Sean 'Zoner' Cavanaugh and Valve Software
+Decompiling BSP file zm_mechanix_v2...
+Processing model 0 (worldspawn)...done
+Processing model 1 (func_wall)...done
+Processing model 2 (func_wall)...done
+Processing model 3 (func_ladder)...done
+Processing model 4 (func_wall)...done
+Processing model 5 (func_wall)...done
+Processing model 6 (func_wall)...done
+Processing model 7 (func_wall)...done
+Processing model 8 (func_wall)...done
+Processing model 9 (func_train)...done
+Processing model 10 (func_illusionary)...done
+Processing model 11 (func_illusionary)...done
+Processing model 12 (trigger_once)...done
+Processing model 13 (func_wall)...done
+Processing model 14 (func_wall)...done
+Processing model 15 (func_train)...done
+Processing model 16 (func_train)...done
+Processing model 17 (func_train)...done
+Processing model 18 (func_wall)...done
+Processing model 19 (func_conveyor)...done
+Processing model 20 (func_wall)...done
+Processing model 21 (func_ladder)...done
+Processing model 22 (func_door)...done
+Processing model 23 (func_button)...done
+Processing model 24 (func_door)...done
+Processing model 25 (func_wall)...done
+Processing model 26 (func_wall)...done
+Processing model 27 (func_wall)...done
+Processing model 28 (func_train)...done
+Processing model 29 (func_wall)...done
+Processing model 30 (func_wall)...done
+Processing model 31 (func_wall)...done
+Processing model 32 (func_wall)...done
+Processing model 33 (func_ladder)...done
+Processing model 34 (func_ladder)...done
+Processing model 35 (func_wall)...done
+Processing model 36 (func_wall)...done
+Processing model 37 (func_wall)...done
+Processing model 38 (func_wall)...done
+Processing model 39 (func_wall)...done
+Processing model 40 (func_wall)...done
+Processing model 41 (func_wall)...done
+Processing model 42 (func_conveyor)...done
+Processing model 43 (func_conveyor)...done
+Processing model 44 (func_conveyor)...done
+Processing model 45 (func_conveyor)...done
+Processing model 46 (trigger_teleport)...done
+Processing model 47 (trigger_teleport)...done
+Processing model 48 (trigger_teleport)...done
+Processing model 49 (func_illusionary)...done
+Processing model 50 (trigger_teleport)...done
+Processing model 51 (trigger_teleport)...done
+Processing model 52 (func_illusionary)...done
+Processing model 53 (trigger_push)...done
+Processing model 54 (trigger_once)...done
+Processing model 55 (func_wall)...done
+Processing model 56 (func_wall)...done
+Processing model 57 (func_train)...done
+Processing model 58 (func_train)...done
+Processing model 59 (func_train)...done
+Extracting included textures...done
+
+-----   END   BSPTwoMap -----
+
+
+
+BSPTwoMap v1.4b (Jan  4 2004) by Skyler 'Zipster' York
+With code written by Sean 'Zoner' Cavanaugh and Valve Software
+Decompiling BSP file zm_mechanix_v2...
+Processing model 0 (worldspawn)...done
+Processing model 1 (func_wall)...done
+Processing model 2 (func_wall)...done
+Processing model 3 (func_ladder)...done
+Processing model 4 (func_wall)...done
+Processing model 5 (func_wall)...done
+Processing model 6 (func_wall)...done
+Processing model 7 (func_wall)...done
+Processing model 8 (func_wall)...done
+Processing model 9 (func_train)...done
+Processing model 10 (func_illusionary)...done
+Processing model 11 (func_illusionary)...done
+Processing model 12 (trigger_once)...done
+Processing model 13 (func_wall)...done
+Processing model 14 (func_wall)...done
+Processing model 15 (func_train)...done
+Processing model 16 (func_train)...done
+Processing model 17 (func_train)...done
+Processing model 18 (func_wall)...done
+Processing model 19 (func_conveyor)...done
+Processing model 20 (func_wall)...done
+Processing model 21 (func_ladder)...done
+Processing model 22 (func_door)...done
+Processing model 23 (func_button)...done
+Processing model 24 (func_door)...done
+Processing model 25 (func_wall)...done
+Processing model 26 (func_wall)...done
+Processing model 27 (func_wall)...done
+Processing model 28 (func_train)...done
+Processing model 29 (func_wall)...done
+Processing model 30 (func_wall)...done
+Processing model 31 (func_wall)...done
+Processing model 32 (func_wall)...done
+Processing model 33 (func_ladder)...done
+Processing model 34 (func_ladder)...done
+Processing model 35 (func_wall)...done
+Processing model 36 (func_wall)...done
+Processing model 37 (func_wall)...done
+Processing model 38 (func_wall)...done
+Processing model 39 (func_wall)...done
+Processing model 40 (func_wall)...done
+Processing model 41 (func_wall)...done
+Processing model 42 (func_conveyor)...done
+Processing model 43 (func_conveyor)...done
+Processing model 44 (func_conveyor)...done
+Processing model 45 (func_conveyor)...done
+Processing model 46 (trigger_teleport)...done
+Processing model 47 (trigger_teleport)...done
+Processing model 48 (trigger_teleport)...done
+Processing model 49 (func_illusionary)...done
+Processing model 50 (trigger_teleport)...done
+Processing model 51 (trigger_teleport)...done
+Processing model 52 (func_illusionary)...done
+Processing model 53 (trigger_push)...done
+Processing model 54 (trigger_once)...done
+Processing model 55 (func_wall)...done
+Processing model 56 (func_wall)...done
+Processing model 57 (func_train)...done
+Processing model 58 (func_train)...done
+Processing model 59 (func_train)...done
+Extracting included textures...done
+
+-----   END   BSPTwoMap -----
+
+
+

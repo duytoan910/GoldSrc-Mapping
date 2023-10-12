@@ -1,0 +1,251 @@
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: "E:\Me\Tools\Valve Hammer Editor 3.5\hlcsg.exe"-wadautodetect -wadinclude color_glass.wad -wadinclude water_css.wad -wadinclude wadflopy.wad -wadinclude ntc.wad -wadinclude 3n0_Textures.wad -wadinclude boxes.wad "E:\Me\Tools\Valve Hammer Editor 3.5\maps\zm_ntc_new_place"
+Entering E:\Me\Tools\Valve Hammer Editor 3.5\maps\zm_ntc_new_place.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadfiles not in use by the map will be excluded
+Wadinclude list :
+[zhlt.wad]
+[color_glass.wad]
+[water_css.wad]
+[wadflopy.wad]
+[ntc.wad]
+[3n0_Textures.wad]
+[boxes.wad]
+
+6 brushes (totalling 36 sides) discarded from clipping hulls
+CreateBrush:
+ (0.05 seconds)
+SetModelCenters:
+ (0.00 seconds)
+CSGBrush:
+ (0.17 seconds)
+
+Including Wadfile: \me\tools\valve hammer editor 3.5\ntc.wad
+ - Contains 3 used textures, 11.11 percent of map (3 textures in wad)
+Using Wadfile: \me\tools\valve hammer editor 3.5\halflife.wad
+ - Contains 11 used textures, 40.74 percent of map (3116 textures in wad)
+Including Wadfile: \me\tools\valve hammer editor 3.5\water_css.wad
+ - Warning: Larger than expected texture (348972 bytes): '!LAVA03'
+ - Warning: Larger than expected texture (348972 bytes): '!SLIME03'
+ - Warning: Larger than expected texture (348972 bytes): '!SLUGDE03'
+ - Warning: Larger than expected texture (348972 bytes): '!WATER03'
+ - Contains 1 used texture, 3.70 percent of map (12 textures in wad)
+Including Wadfile: \me\tools\valve hammer editor 3.5\3n0_textures.wad
+ - Contains 2 used textures, 7.41 percent of map (35 textures in wad)
+Including Wadfile: \me\tools\valve hammer editor 3.5\boxes.wad
+ - Contains 5 used textures, 18.52 percent of map (100 textures in wad)
+Including Wadfile: \me\tools\valve hammer editor 3.5\color_glass.wad
+ - Contains 5 used textures, 18.52 percent of map (39 textures in wad)
+
+added 2 additional animating textures.
+Texture usage is at 1.03 mb (of 4.00 mb MAX)
+0.44 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: "E:\Me\Tools\Valve Hammer Editor 3.5\hlbsp.exe""E:\Me\Tools\Valve Hammer Editor 3.5\maps\zm_ntc_new_place"
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...561 (0.02 seconds)
+BSP generation successful, writing portal file 'E:\Me\Tools\Valve Hammer Editor 3.5\maps\zm_ntc_new_place.prt'
+SolidBSP [hull 1] 364 (0.00 seconds)
+SolidBSP [hull 2] 336 (0.02 seconds)
+SolidBSP [hull 3] 463 (0.02 seconds)
+0.28 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: "E:\Me\Tools\Valve Hammer Editor 3.5\hlvis.exe""E:\Me\Tools\Valve Hammer Editor 3.5\maps\zm_ntc_new_place"
+ 308 portalleafs
+ 876 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [     off ] [     off ]
+full vis            [     off ] [     off ]
+
+
+BasePortalVis:
+ (0.05 seconds)
+LeafThread:
+ (2.52 seconds)
+average leafs visible: 130
+g_visdatasize:11230  compressed from 12012
+2.58 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlrad v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlrad -----
+Command line: "E:\Me\Tools\Valve Hammer Editor 3.5\hlrad.exe""E:\Me\Tools\Valve Hammer Editor 3.5\maps\zm_ntc_new_place"
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 2 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+max lighting memory  [           6291456 ] [           6291456 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[               off ] [               off ]
+bounces              [                 1 ] [                 1 ]
+bounce dynamic light [                on ] [                on ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           255.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [ 1.000 1.000 1.000 ] [ 1.000 1.000 1.000 ]
+global gamma         [ 0.500 0.500 0.500 ] [ 0.500 0.500 0.500 ]
+global light scale   [             1.000 ] [             1.000 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+colour jitter        [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+monochromatic jitter [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+softlight hack       [   0.0 0.0 0.0 0.0 ] [   0.0 0.0 0.0 0.0 ]
+diffuse hack         [                on ] [                on ]
+spotlight points     [                on ] [                on ]
+
+custom shadows with bounce light
+                     [               off ] [               off ]
+rgb transfers        [               off ] [               off ]
+
+
+[Reading texlights from 'E:\Me\Tools\Valve Hammer Editor 3.5\lights.rad']
+[59 texlights parsed from 'E:\Me\Tools\Valve Hammer Editor 3.5\lights.rad']
+
+3055 faces
+Create Patches : 19622 base patches
+0 opaque faces
+212921 square feet [30660632.00 square inches]
+380 direct lights
+
+BuildFacelights:
+ (15.00 seconds)
+visibility matrix   :  23.0 megs
+BuildVisLeafs:
+ (16.42 seconds)
+MakeScales:
+ (9.27 seconds)
+SwapTransfers:
+ (3.64 seconds)
+Transfer Lists :    27931440 :   27.93M transfers
+       Indices :     9033488 :    8.62M bytes
+          Data :   111725760 :  106.55M bytes
+GatherLight:
+ (0.58 seconds)
+FinalLightFace:
+ (0.59 seconds)
+46.28 seconds elapsed
+
+-----   END   hlrad -----
+
+
+

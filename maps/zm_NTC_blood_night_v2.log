@@ -1,0 +1,27 @@
+BSPTwoMap v1.4b (Jan  4 2004) by Skyler 'Zipster' York
+With code written by Sean 'Zoner' Cavanaugh and Valve Software
+Decompiling BSP file zm_NTC_blood_night_v2...
+Processing model 0 (worldspawn)...done
+Processing model 1 (func_wall)...done
+Processing model 2 (func_ladder)...done
+Processing model 3 (func_ladder)...done
+Processing model 4 (func_wall)...done
+Processing model 5 (func_ladder)...done
+Processing model 6 (func_wall)...done
+Processing model 7 (func_wall)...done
+Processing model 8 (func_wall)...done
+Processing model 9 (func_wall)...done
+Processing model 10 (func_wall)...done
+Processing model 11 (func_wall)...done
+Processing model 12 (func_wall)...done
+Processing model 13 (func_wall)...done
+Processing model 14 (func_wall)...done
+Processing model 15 (func_wall)...done
+Processing model 16 (func_wall)...done
+Processing model 17 (func_rotating)...done
+Extracting included textures...done
+
+-----   END   BSPTwoMap -----
+
+
+

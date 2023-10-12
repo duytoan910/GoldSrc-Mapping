@@ -1,0 +1,14 @@
+BSPTwoMap v1.4b (Jan  4 2004) by Skyler 'Zipster' York
+With code written by Sean 'Zoner' Cavanaugh and Valve Software
+Decompiling BSP file zm_flood...
+Processing model 0 (worldspawn)...done
+Processing model 1 (func_water)...done
+Processing model 2 (func_wall)...done
+Processing model 3 (func_illusionary)...done
+Processing model 4 (func_illusionary)...done
+Extracting included textures...done
+
+-----   END   BSPTwoMap -----
+
+
+

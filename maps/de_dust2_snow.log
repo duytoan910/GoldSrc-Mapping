@@ -1,0 +1,53 @@
+BSPTwoMap v1.4b (Jan  4 2004) by Skyler 'Zipster' York
+With code written by Sean 'Zoner' Cavanaugh and Valve Software
+Decompiling BSP file E:\Me\Tools\Valve Hammer Editor 3.5\maps\de_dust2_snow...
+Processing model 0 (worldspawn)...done
+Processing model 1 (func_illusionary)...done
+Processing model 2 (func_illusionary)...done
+Processing model 3 (func_illusionary)...done
+Processing model 4 (func_illusionary)...done
+Processing model 5 (func_illusionary)...done
+Processing model 6 (func_illusionary)...done
+Processing model 7 (func_illusionary)...done
+Processing model 8 (func_illusionary)...done
+Processing model 9 (func_illusionary)...done
+Processing model 10 (func_illusionary)...done
+Processing model 11 (func_illusionary)...done
+Processing model 12 (func_illusionary)...done
+Processing model 13 (func_illusionary)...done
+Processing model 14 (func_illusionary)...done
+Processing model 15 (func_illusionary)...done
+Processing model 16 (func_illusionary)...done
+Processing model 17 (func_illusionary)...done
+Processing model 18 (func_illusionary)...done
+Processing model 19 (func_illusionary)...done
+Processing model 20 (func_illusionary)...done
+Processing model 21 (func_illusionary)...done
+Processing model 22 (func_illusionary)...done
+Processing model 23 (func_illusionary)...done
+Processing model 24 (func_illusionary)...done
+Processing model 25 (func_breakable)...done
+Processing model 26 (func_breakable)...done
+Processing model 27 (func_breakable)...done
+Processing model 28 (func_bomb_target)...done
+Processing model 29 (func_buyzone)...done
+Processing model 30 (func_buyzone)...done
+Processing model 31 (func_breakable)...done
+Processing model 32 (func_illusionary)...done
+Processing model 33 (func_illusionary)...done
+Processing model 34 (func_illusionary)...done
+Processing model 35 (func_illusionary)...done
+Processing model 36 (func_breakable)...done
+Processing model 37 (func_breakable)...done
+Processing model 38 (func_breakable)...done
+Processing model 39 (func_breakable)...done
+Processing model 40 (func_breakable)...done
+Processing model 41 (func_breakable)...done
+Processing model 42 (func_bomb_target)...done
+Processing model 43 (func_wall)...done
+Extracting included textures...done
+
+-----   END   BSPTwoMap -----
+
+
+

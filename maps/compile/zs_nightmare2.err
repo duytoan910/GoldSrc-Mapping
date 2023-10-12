@@ -1,0 +1,59 @@
+hlcsg: Error: Entity 0, Brush 90, Side 3: plane with no normal
+
+hlcsg: Error: plane with no normal
+Description: The map has a problem which must be fixed
+Howto Fix: Check the file http://www.zhlt.info/common-mapping-problems.html for a detailed explanation of this problem
+
+
+hlcsg: Error: Entity 0, Brush 90: outside world(+/-4096): (-10000,-3260,195)-(10000,736,9526)
+
+hlcsg: Error: Entity 0, Brush 90: outside world(+/-4096): (-10000,-3260,195)-(10000,736,9526)
+
+hlcsg: Error: Entity 0, Brush 90: outside world(+/-4096): (-10016,-3276,159)-(10016,752,9562)
+
+hlcsg: Error: Entity 0, Brush 90: outside world(+/-4096): (-10016,-3276,159)-(10016,752,9562)
+
+hlcsg: Error: Entity 0, Brush 93, Side 6: has a coplanar plane at (210, 768, 232), texture SILO2_WET6
+
+hlcsg: Error: Entity 0, Brush 90: outside world(+/-4096): (-10032,-3292,163)-(10032,768,9558)
+
+hlcsg: Error: Entity 0, Brush 90: outside world(+/-4096): (-10032,-3292,163)-(10032,768,9558)
+
+hlcsg: Error: Entity 0, Brush 90: outside world(+/-4096): (-10016,-3276,177)-(10016,752,9544)
+
+hlcsg: Error: Entity 0, Brush 90: outside world(+/-4096): (-10016,-3276,177)-(10016,752,9544)
+
+hlcsg: Error: Entity 0, Brush 108, Side 10: has a coplanar plane at (983, 215, 263), texture SILO2_WET6
+
+hlcsg: Error: Entity 0, Brush 137, Side 2: plane with no normal
+
+hlcsg: Error: Entity 0, Brush 137, Side 10: has a coplanar plane at (-165, 795, 221), texture SILO2_WET6
+
+hlcsg: Error: Entity 0, Brush 137: outside world(+/-4096): (-9224,-10000,-7032)-(7110,10000,3867)
+
+hlcsg: Error: Entity 0, Brush 137: outside world(+/-4096): (-9224,-10000,-7032)-(7110,10000,3867)
+
+hlcsg: Error: Entity 0, Brush 137: outside world(+/-4096): (-9224,-10000,-7032)-(7110,10000,3867)
+
+hlcsg: Error: Entity 0, Brush 137: outside world(+/-4096): (-9240,-10016,-7068)-(7126,10016,3903)
+
+hlcsg: Error: Entity 0, Brush 137: outside world(+/-4096): (-9240,-10016,-7068)-(7126,10016,3903)
+
+hlcsg: Error: Entity 0, Brush 137: outside world(+/-4096): (-9240,-10016,-7068)-(7126,10016,3903)
+
+hlcsg: Error: Entity 0, Brush 137: outside world(+/-4096): (-9256,-10032,-7064)-(7142,10032,3899)
+
+hlcsg: Error: Entity 0, Brush 137: outside world(+/-4096): (-9256,-10032,-7064)-(7142,10032,3899)
+
+hlcsg: Error: Entity 0, Brush 137: outside world(+/-4096): (-9256,-10032,-7064)-(7142,10032,3899)
+
+hlcsg: Error: Entity 0, Brush 137: outside world(+/-4096): (-9240,-10016,-7050)-(7126,10016,3885)
+
+hlcsg: Error: Entity 0, Brush 137: outside world(+/-4096): (-9240,-10016,-7050)-(7126,10016,3885)
+
+hlcsg: Error: Entity 0, Brush 137: outside world(+/-4096): (-9240,-10016,-7050)-(7126,10016,3885)
+
+hlcsg: Error: Entity 0, Brush 286, Side 3: has a coplanar plane at (1392, -1248, 481), texture SILO2_WET6
+
+hlcsg: Error: Entity 0, Brush 398, Side 4: has a coplanar plane at (-784, -784, 208), texture SILO2_WET6
+

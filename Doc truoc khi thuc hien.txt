@@ -1,0 +1,9 @@
+ 1 : Cai dat hammer_v34	
+
+ 2 : Sao chep hoac di chuyen file "hammer.exe" (ver 3.5) ,folder "tools" va "fgd" vào folder chua VHE (chep de len)
+
+ 5 : Vao VHE va config theo huong dan (trong tool/option) . Co the tham khao o day : http://www.youtube.com/watch?v=9M1058q53lU
+
+ 6 : Tao map
+
+P/s : Neu khong chay duoc do thieu Visual C++ , download link : http://www.microsoft.com/en-us/download/details.aspx?id=3387

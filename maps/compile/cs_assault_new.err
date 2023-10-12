@@ -1,0 +1,5 @@
+hlrad: Error: Malformed face normal
+Description: The texture alignment of a visible face is unusable
+Howto Fix: If using Worldcraft, do a check for problems and fix any occurences of 'Texture axis perpindicular to face'
+
+

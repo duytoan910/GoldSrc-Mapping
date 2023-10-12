@@ -1,0 +1,40 @@
+BSPTwoMap v1.4b (Jan  4 2004) by Skyler 'Zipster' York
+With code written by Sean 'Zoner' Cavanaugh and Valve Software
+Decompiling BSP file zm_restart...
+Processing model 0 (worldspawn)...done
+Processing model 1 (func_illusionary)...done
+Processing model 2 (func_wall)...done
+Processing model 3 (func_wall)...done
+Processing model 4 (func_wall)...done
+Processing model 5 (func_illusionary)...done
+Processing model 6 (func_wall)...done
+Processing model 7 (func_wall)...done
+Processing model 8 (func_breakable)...done
+Processing model 9 (func_breakable)...done
+Processing model 10 (func_breakable)...done
+Processing model 11 (func_breakable)...done
+Processing model 12 (func_breakable)...done
+Processing model 13 (func_breakable)...done
+Processing model 14 (func_breakable)...done
+Processing model 15 (func_breakable)...done
+Processing model 16 (func_wall)...done
+Processing model 17 (func_breakable)...done
+Processing model 18 (func_breakable)...done
+Processing model 19 (func_breakable)...done
+Processing model 20 (func_breakable)...done
+Processing model 21 (func_breakable)...done
+Processing model 22 (func_breakable)...done
+Processing model 23 (func_breakable)...done
+Processing model 24 (func_breakable)...done
+Processing model 25 (func_breakable)...done
+Processing model 26 (func_illusionary)...done
+Processing model 27 (func_breakable)...done
+Processing model 28 (func_breakable)...done
+Processing model 29 (func_breakable)...done
+Processing model 30 (func_illusionary)...done
+Extracting included textures...done
+
+-----   END   BSPTwoMap -----
+
+
+

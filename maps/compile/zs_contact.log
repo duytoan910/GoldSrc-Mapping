@@ -1,0 +1,102 @@
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: E:\Me\Tools\VALVEH~1.5\hlcsg.exe "E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zs_contact"
+Entering E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zs_contact.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+0 brushes (totalling 0 sides) discarded from clipping hulls
+CreateBrush:
+Error: Entity 0, Brush 111, Side 4: plane with no normal
+Error: plane with no normal
+Description: The map has a problem which must be fixed
+Howto Fix: Check the file http://www.zhlt.info/common-mapping-problems.html for a detailed explanation of this problem
+
+Error: Entity 0, Brush 111: outside world(+/-4096): (-5488,1504,1024)-(2107,1671,10006)
+Error: Entity 0, Brush 111: outside world(+/-4096): (-5488,1504,1024)-(2107,1671,10006)
+Error: Entity 0, Brush 111: outside world(+/-4096): (-5504,1488,988)-(2123,1687,10042)
+Error: Entity 0, Brush 111: outside world(+/-4096): (-5504,1488,988)-(2123,1687,10042)
+Error: Entity 0, Brush 111: outside world(+/-4096): (-5520,1472,992)-(2139,1703,10038)
+Error: Entity 0, Brush 111: outside world(+/-4096): (-5520,1472,992)-(2139,1703,10038)
+Error: Entity 0, Brush 111: outside world(+/-4096): (-5504,1488,1006)-(2123,1687,10024)
+Error: Entity 0, Brush 111: outside world(+/-4096): (-5504,1488,1006)-(2123,1687,10024)
+Error: Entity 0, Brush 182, Side 2: has a coplanar plane at (2477, 1433, 964), texture ZS_WIN_03
+ (0.04 seconds)
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: E:\Me\Tools\VALVEH~1.5\hlbsp.exe "E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zs_contact"
+>> There was a problem compiling the map.
+>> Check the file E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zs_contact.log for the cause.
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: E:\Me\Tools\VALVEH~1.5\hlvis.exe "E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zs_contact"
+>> There was a problem compiling the map.
+>> Check the file E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zs_contact.log for the cause.
+
+-----   END   hlvis -----
+
+
+
+hlrad v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlrad -----
+Command line: E:\Me\Tools\VALVEH~1.5\hlrad.exe "E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zs_contact"
+>> There was a problem compiling the map.
+>> Check the file E:\Me\Tools\Valve Hammer Editor 3.5\maps\compile\zs_contact.log for the cause.
+
+-----   END   hlrad -----
+
+
+
